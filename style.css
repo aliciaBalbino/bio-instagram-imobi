@@ -35,7 +35,7 @@ nav {
 }
 
 /*Botão*/
-a {
+nav a {
     text-decoration: none;
     background-color: #cec5b9;
     color: #394c5c;
@@ -47,7 +47,7 @@ a {
     transition: background-color 0.3s, transform 0.1s;
 }
 
-a:hover, a:active {
+nav a:hover, nav a:active {
     background-color: #5e7492;
     transform: scale(0.98);
 }
